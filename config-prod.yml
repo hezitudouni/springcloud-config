@@ -1,1 +1,2 @@
-
+config:
+  info: "test read configof config-prod.yml"
