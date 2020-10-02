@@ -1,1 +1,3 @@
-
+config:
+  info: "test read configof config-dev.yml"
+  
